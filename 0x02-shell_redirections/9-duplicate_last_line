@@ -1,2 +1,3 @@
 #!/bis/bash
-tail -1 <tail >>tail
+tail -1 <iacta>>iacta
+
