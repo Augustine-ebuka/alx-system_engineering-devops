@@ -1,0 +1,2 @@
+#!/bis/bash
+tail -1 <tail >>tail
